@@ -1,0 +1,20 @@
+C:\Users\Тая\source\repos\Laba15\Laba15\bin\Debug\Laba15.exe.config
+C:\Users\Тая\source\repos\Laba15\Laba15\bin\Debug\Laba15.exe
+C:\Users\Тая\source\repos\Laba15\Laba15\bin\Debug\Laba15.pdb
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.csprojAssemblyReference.cache
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.Form1.resources
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.Properties.Resources.resources
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.exe
+C:\Users\Тая\source\repos\Laba15\Laba15\obj\Debug\Laba15.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\bin\Debug\Laba15.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\bin\Debug\Laba15.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\bin\Debug\Laba15.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba15\Тая\Laba15\Laba15\obj\Debug\Laba15.pdb
